@@ -1,4 +1,4 @@
-<h1 align="left">Júlia Rebstein</h1>
+!<h1 align="left">Júlia Rebstein</h1>
 
 ###
 
@@ -41,5 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
+<img width="69" height="74" alt="471(1)" src="https://github.com/user-attachments/assets/35de444b-92d1-4068-af6d-0918998653f4" />
 
 ###
