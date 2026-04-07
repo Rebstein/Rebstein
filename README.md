@@ -1,6 +1,6 @@
 <h2 align="left">
   🌃 About Me
-  <img src="Glaceon.gif" width="70" align="right">
+  <img src="Glaceon.gif" width="90" align="right">
 </h2>
 
 <h6 align="left">Hi there, I'm Júlia Rebstein 👋🏻<br><br>I am an Information Systems student at UFSC (Federal University of Santa Catarina), now in my second semester.<br><br>I am focused on bridging the gap between Software Quality and Full Stack Development. My daily workflow involves automating processes and building scripts, while I expand my horizon into backend and frontend ecosystems. My long-term goal is to specialize in Cybersecurity, ensuring that the systems I build are not only functional but also resilient.<br><br>Languages: Fluent in English, native in Portuguese, and challenging myself to learn German.</h6>
