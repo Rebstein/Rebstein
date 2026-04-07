@@ -1,6 +1,6 @@
 <h2 align="left">
   🌃 About Me
-  <img src="Glaceon.gif" width="50" align="right">
+  <img src="Glaceon.gif" width="35" align="right">
 </h2>
 
 ###
