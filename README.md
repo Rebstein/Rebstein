@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Rebstein&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=Rebstein&theme=dracula" height="150" alt="streak graph" />
 </div>
 
 ###
