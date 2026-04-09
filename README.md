@@ -62,8 +62,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rebstein&layout=compact&theme=dracula" height="165" alt="Top Langs" />
-  
   <img src="https://streak-stats.demolab.com?user=Rebstein&theme=dracula" height="165" alt="streak graph" />
 </div>
 
