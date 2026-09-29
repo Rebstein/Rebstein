@@ -3,7 +3,7 @@
   <img src="Glaceon.gif" width="90" align="right">
 </h2>
 
-<h6 align="left">Hi there, I'm Júlia Rebstein 👋🏻<br><br>I am an Information Systems student at UFSC (Federal University of Santa Catarina), now in my third semester..</h6>
+<h6 align="left">Hi there, I'm Júlia Rebstein 👋🏻<br><br>I am an Information Systems student at UFSC (Federal University of Santa Catarina), now in my third semester.</h6>
 
 ###
 
